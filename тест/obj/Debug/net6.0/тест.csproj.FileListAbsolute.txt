@@ -1,0 +1,4 @@
+C:\Users\ekono\source\repos\тест\тест\obj\Debug\net6.0\тест.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ekono\source\repos\тест\тест\obj\Debug\net6.0\тест.AssemblyInfoInputs.cache
+C:\Users\ekono\source\repos\тест\тест\obj\Debug\net6.0\тест.AssemblyInfo.cs
+C:\Users\ekono\source\repos\тест\тест\obj\Debug\net6.0\тест.csproj.CoreCompileInputs.cache
